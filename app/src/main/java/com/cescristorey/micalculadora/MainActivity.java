@@ -9,7 +9,8 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
 
     private double subtotal = 0;
-    Button boton7, boton8, boton9, boton4, boton5, boton6, boton1, boton2, boton3, boton0, botonPunto, botonSuma, botonResta, botonMultiplicacion, botonDivision, botonIgual, botonC, botonMasMenos;
+    Button boton0, boton1, boton2, boton3, boton4, boton5, boton6, boton7, boton8, boton9,
+            botonPunto, botonSuma, botonResta, botonMultiplicacion, botonDivision, botonIgual, botonC, botonMasMenos;
     TextView tv1, tv2;
 
     @Override
