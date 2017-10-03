@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Luis\.android\build-cache\340d57699ff2112bb4bbde969af81c319966420d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Luis\Documents\Programacion Multimedia\micalculadora\Documents\app\build\intermediates\pre-dexed\debug\classes_827b7a824d5ee139b4644807ebdcaa7fe3309a6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Luis\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Luis\Documents\Programacion Multimedia\micalculadora\Documents\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_ec966bdd80a1547abb95dd9c713dfb4d0eceea99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Luis\.android\build-cache\d80827ea93d67c490de16806c2c0330e12d9aa46\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Luis\Documents\Programacion Multimedia\micalculadora\Documents\app\build\intermediates\pre-dexed\debug\classes_b4426893e1add09203ea1be8bc44aaccd9524fd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Luis\.android\build-cache\aa647be43d932a1f4413682f6cd0a8af4e725d9d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Luis\Documents\Programacion Multimedia\micalculadora\Documents\app\build\intermediates\pre-dexed\debug\classes_af972b4abd5e2548f5ca24ceaba85a8cd345683e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Luis\.android\build-cache\3b397245bb5793ea92c6d7e2f7ac082ced4e8edd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Luis\Documents\Programacion Multimedia\micalculadora\Documents\app\build\intermediates\pre-dexed\debug\classes_5a06703f0d72162bd88c1b22f836bb52014f964f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Luis\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Luis\Documents\Programacion Multimedia\micalculadora\Documents\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_025d92ede0a741c2c6a73c8b96d3488f76507759.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Luis\.android\build-cache\a0809e8bff5f597bc0c40fd8729277567fe109d7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Luis\Documents\Programacion Multimedia\micalculadora\Documents\app\build\intermediates\pre-dexed\debug\classes_3aa7aae23af8506c6614ef8ff8f192f35dbc62fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Luis\.android\build-cache\7aab4747af6d4a0930d9fb2d634d6c8e39393f9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Luis\Documents\Programacion Multimedia\micalculadora\Documents\app\build\intermediates\pre-dexed\debug\classes_7f234dddd8243f2d0866fe5007827fb91d3c9073.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Luis\.android\build-cache\a348bfab9fe5700b261b1fce77ac548fc8bb972e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Luis\Documents\Programacion Multimedia\micalculadora\Documents\app\build\intermediates\pre-dexed\debug\classes_ca8f5420375c1cee63a5dbbb38accf2f3a2a0146.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Luis\.android\build-cache\af80ebcd50797745e0c66691e419943eec0b5cec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Luis\Documents\Programacion Multimedia\micalculadora\Documents\app\build\intermediates\pre-dexed\debug\classes_db299ee3ceec2c1a547774e1e4d05bd44ee15440.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Luis\.android\build-cache\a83758b01b037bf871524613573191e0b11b2d34\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Luis\Documents\Programacion Multimedia\micalculadora\Documents\app\build\intermediates\pre-dexed\debug\classes_8d2bcc7aad26f9733af9c5a67f512fda81fc6053.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Luis\.android\build-cache\3c986a7bd008ceb09508dbffac9bb2bf00d83c92\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Luis\Documents\Programacion Multimedia\micalculadora\Documents\app\build\intermediates\pre-dexed\debug\classes_d514c22ab0901dc8f2b7b12e6e7dec827a9b7dc4.jar" />
+    </item>
+
+</items>
